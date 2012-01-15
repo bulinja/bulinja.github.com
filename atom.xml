@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Simple blog]]></title>
+  <link href="http://bulinja.github.com/atom.xml" rel="self"/>
+  <link href="http://bulinja.github.com/"/>
+  <updated>2012-01-16T01:25:14+09:00</updated>
+  <id>http://bulinja.github.com/</id>
+  <author>
+    <name><![CDATA[Bul In Jap]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
