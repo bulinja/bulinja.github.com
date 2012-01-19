@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Simple blog]]></title>
-  <link href="http://bulinja.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: web | Simple blog]]></title>
+  <link href="http://bulinja.github.com/blog/categories/web/atom.xml" rel="self"/>
   <link href="http://bulinja.github.com/"/>
   <updated>2012-01-19T22:54:40+09:00</updated>
   <id>http://bulinja.github.com/</id>
@@ -24,20 +24,11 @@ I like the idea to have a weekly digest of the interesting links, found during t
 <p>About blogging itself - need to make a difficult choice what to use:</p>
 
 <ul>
-<li>&#8220;Full featured&#8221; blog like <a href="http://bulinja.wordpress.com/">WordPress</a></li>
+<li>"Full featured" blog like <a href="http://bulinja.wordpress.com/">WordPress</a></li>
 <li>Microblog like <a href="http://bulinja.posterous.com/">Posterous</a></li>
 <li>Support my own blog, for example <a href="http://bulinja.github.com">Octopress</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Switched to Octopress]]></title>
-    <link href="http://bulinja.github.com/blog/2012/01/16/switched-to-octopress/"/>
-    <updated>2012-01-16T01:26:00+09:00</updated>
-    <id>http://bulinja.github.com/blog/2012/01/16/switched-to-octopress</id>
-    <content type="html"><![CDATA[<p>Switched this blog from <a href="https://github.com/mojombo/jekyll">Jekyll</a> to <a href="http://octopress.org/">Octopress</a>.</p>
 ]]></content>
   </entry>
   

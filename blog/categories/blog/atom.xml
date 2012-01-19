@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blog | Simple blog]]></title>
   <link href="http://bulinja.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://bulinja.github.com/"/>
-  <updated>2012-01-19T22:30:07+09:00</updated>
+  <updated>2012-01-19T22:54:40+09:00</updated>
   <id>http://bulinja.github.com/</id>
   <author>
     <name><![CDATA[Bul In Jap]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Interesting blog found]]></title>
+    <link href="http://bulinja.github.com/blog/2012/01/19/interesting-blog-found/"/>
+    <updated>2012-01-19T22:37:00+09:00</updated>
+    <id>http://bulinja.github.com/blog/2012/01/19/interesting-blog-found</id>
+    <content type="html"><![CDATA[<p>Today found pretty <a href="http://mrjaba.posterous.com/">interesting blog</a>.
+I like the idea to have a weekly digest of the interesting links, found during the week - <em>News Roundup</em></p>
+
+<p>About blogging itself - need to make a difficult choice what to use:</p>
+
+<ul>
+<li>"Full featured" blog like <a href="http://bulinja.wordpress.com/">WordPress</a></li>
+<li>Microblog like <a href="http://bulinja.posterous.com/">Posterous</a></li>
+<li>Support my own blog, for example <a href="http://bulinja.github.com">Octopress</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Switched to Octopress]]></title>
